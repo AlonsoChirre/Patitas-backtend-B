@@ -1,0 +1,4 @@
+pe\edu\cibertec\patitas_backend_b\controller\AutenticacionController.class
+pe\edu\cibertec\patitas_backend_b\dto\LoginResponseDTO.class
+pe\edu\cibertec\patitas_backend_b\PatitasBackendBApplication.class
+pe\edu\cibertec\patitas_backend_b\dto\LoginRequestDTO.class
